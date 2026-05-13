@@ -3,7 +3,7 @@ import { DefaultProviders } from "./components/providers/default.tsx";
 import AppLayout from "./components/app-layout.tsx";
 import AuthCallback from "./pages/auth/Callback.tsx";
 import HomePage from "./pages/home/page.tsx";
-import NotFound from "./pages/NotFound.tsx";
+import NotFound from "./pages/Notfound.tsx";
 import { lazy, Suspense, useEffect } from "react";
 
 function ScrollToTop() {
